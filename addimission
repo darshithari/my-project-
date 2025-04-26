@@ -1,0 +1,44 @@
+run:
+===========================================
+         WELCOME TO ADMISSION FORM         
+===========================================
+
+Enter Full Name           : darshit
+Enter Gender (M/F/O)       : m
+Enter Date of Birth (DD-MM-YYYY) : 09-02-2000
+Enter Age                 : 25
+Enter Email ID             : darshit
+? Invalid email format. Try again.
+
+Enter Email ID             : darshit@gmail.com
+Enter Phone Number (10 digits) : 8787878787
+Enter Address              : mavdi rajkot
+
+Available Courses:
+1. B.Tech
+2. B.Sc
+3. B.Com
+4. BA
+5. MBA
+6. MCA
+Select your Course (1-6): 1
+Enter Last Qualification   : b.e
+Enter Last Percentage      : 88
+
+===========================================
+          ADMISSION FORM SUMMARY           
+===========================================
+Full Name            : darshit
+Gender               : M
+Date of Birth        : 09-02-2000
+Age                  : 25
+Email ID             : darshit@gmail.com
+Phone Number         : 8787878787
+Address              : mavdi rajkot
+Course Applied       : B.Tech
+Last Qualification   : b.e
+Last Percentage      : 88.0%
+
+? Form Submitted Successfully. Thank you, darshit!
+===========================================
+BUILD SUCCESSFUL (total time: 52 seconds)
